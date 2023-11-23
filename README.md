@@ -1,5 +1,8 @@
 # C-clinic
 # ICT 한이음 영상처리파트
+
+![image](https://github.com/betteree/C-clinic/assets/145482647/28b038e3-4521-45bb-ba88-6c8d130451f6)
+
 제작과정 기록<br/>
 티스토리 - https://betteree.tistory.com/27
 
