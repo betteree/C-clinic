@@ -1,5 +1,8 @@
 # C-clinic
 # ICT 한이음 영상처리파트
+제작과정 기록<br/>
+티스토리 - https://betteree.tistory.com/27
+
 중간보고서 <br/>
 -제작 설계서
 [Uploading 전국민거북목탈출프로젝트_SW개발_HW제작설계서_일반.pdf…]()
